@@ -557,3 +557,6 @@ select::-ms-expand {
 .bottom a {
   color: #5A61ED;
 }
+.select::not(:last-of-type){
+  margin-right: 10px;
+}
