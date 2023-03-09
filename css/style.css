@@ -266,6 +266,7 @@ h6 {
 .form__flex {
   display: flex;
   justify-content: space-between;
+	gap:10px;
 }
 .form__title {
   font-size: 1.375rem;
