@@ -212,7 +212,10 @@ h6 {
   bottom: 0;
   fill: #F9FAFF;
 }
-
+@media(max-width:430px){
+#person{
+	width:90%;
+	display:block;}
 .page__inner {
   padding-top: 3.75rem;
   display: flex;
